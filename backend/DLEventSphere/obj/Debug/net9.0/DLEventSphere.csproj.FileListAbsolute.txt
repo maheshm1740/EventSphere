@@ -1,0 +1,14 @@
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\DLEventSphere.csproj.AssemblyReference.cache
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\DLEventSphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\DLEventSphere.AssemblyInfoInputs.cache
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\DLEventSphere.AssemblyInfo.cs
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\DLEventSphere.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\bin\Debug\net9.0\DLEventSphere.deps.json
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\bin\Debug\net9.0\DLEventSphere.runtimeconfig.json
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\bin\Debug\net9.0\DLEventSphere.dll
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\bin\Debug\net9.0\DLEventSphere.pdb
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\DLEventSphere.dll
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\refint\DLEventSphere.dll
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\DLEventSphere.pdb
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\DLEventSphere.genruntimeconfig.cache
+C:\Users\Mahesh M\source\repos\EventSphere\DLEventSphere\obj\Debug\net9.0\ref\DLEventSphere.dll

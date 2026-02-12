@@ -1,0 +1,117 @@
+import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { adminApi } from '../../api/adminApi';
+
+const AddOrganizer = () => {
+  const [name, setName] = useState('');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
+  const [loading, setLoading] = useState(false);
+  const navigate = useNavigate();
+
+  const validateForm = () => {
+    if (!name || !email || !password) {
+      setError('All fields are required');
+      return false;
+    }
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(email)) {
+      setError('Please enter a valid email address');
+      return false;
+    }
+    if (password.length < 8) {
+      setError('Password must be at least 8 characters long');
+      return false;
+    }
+    return true;
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setError('');
+
+    if (!validateForm()) return;
+
+    setLoading(true);
+    try {
+      await adminApi.createOrganizer({ name, email, password });
+      alert('Organizer created successfully!');
+      navigate('/admin/users');
+    } catch (err) {
+      setError(err.response?.data?.message || 'Failed to create organizer');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  return (
+    <div className="container py-5">
+      <div className="row justify-content-center">
+        <div className="col-md-8 col-lg-6">
+          <div className="card shadow-lg border-0">
+            <div className="card-body p-5">
+              <h2 className="text-center fw-bold text-primary mb-4">Add New Organizer</h2>
+              <p className="text-center text-muted mb-4">
+                Create a new organizer account
+              </p>
+              {error && (
+                <div className="alert alert-danger" role="alert">
+                  {error}
+                </div>
+              )}
+              <form onSubmit={handleSubmit}>
+                <div className="mb-3">
+                  <label htmlFor="name" className="form-label fw-bold">Full Name</label>
+                  <input
+                    type="text"
+                    className="form-control"
+                    id="name"
+                    value={name}
+                    onChange={(e) => setName(e.target.value)}
+                    placeholder="Enter organizer name"
+                    required
+                  />
+                </div>
+                <div className="mb-3">
+                  <label htmlFor="email" className="form-label fw-bold">Email</label>
+                  <input
+                    type="email"
+                    className="form-control"
+                    id="email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    placeholder="Enter email address"
+                    required
+                  />
+                </div>
+                <div className="mb-3">
+                  <label htmlFor="password" className="form-label fw-bold">Password</label>
+                  <input
+                    type="password"
+                    className="form-control"
+                    id="password"
+                    value={password}
+                    onChange={(e) => setPassword(e.target.value)}
+                    placeholder="At least 8 characters"
+                    required
+                  />
+                  <small className="text-muted">Password must be at least 8 characters</small>
+                </div>
+                <button
+                  type="submit"
+                  className="btn btn-primary w-100 py-2 fw-bold"
+                  disabled={loading}
+                >
+                  {loading ? 'Creating...' : 'Create Organizer'}
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default AddOrganizer;

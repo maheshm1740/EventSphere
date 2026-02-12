@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\eventsphere\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|solutionrelative:eventsphere\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\bleventsphere\\blevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|solutionrelative:bleventsphere\\blevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\dto\u0027s\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\dto\u0027s\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\dto\u0027s\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\dto\u0027s\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\dto\u0027s\\eventregistrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\dto\u0027s\\eventregistrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\eventsphere\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|solutionrelative:eventsphere\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\eventsphere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|solutionrelative:eventsphere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\bleventsphere\\bleventorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|solutionrelative:bleventsphere\\bleventorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\eventsphere\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|solutionrelative:eventsphere\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\eventsphere\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88856DC6-C438-493F-80FB-96320081A653}|EventSphere\\EventSphere.csproj|solutionrelative:eventsphere\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\repository\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\repository\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\repository\\eventorganizerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\repository\\eventorganizerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\model\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\model\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\model\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\model\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\bleventsphere\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|solutionrelative:bleventsphere\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\bleventsphere\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|solutionrelative:bleventsphere\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\bleventsphere\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|solutionrelative:bleventsphere\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\model\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\model\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\dto\u0027s\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\dto\u0027s\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\dto\u0027s\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\dto\u0027s\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\bleventsphere\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|solutionrelative:bleventsphere\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\dto\u0027s\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\dto\u0027s\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\dleventsphere\\abstract\\ieventorganizerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A51C72-9261-436B-BD12-2029C3F805AB}|DLEventSphere\\DLEventSphere.csproj|solutionrelative:dleventsphere\\abstract\\ieventorganizerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|c:\\users\\mahesh m\\source\\repos\\eventsphere\\bleventsphere\\blcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F9F0DD-A50E-40D9-9F61-BFC13954C641}|BLEventSphere\\BLEventSphere.csproj|solutionrelative:bleventsphere\\blcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 441,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventRegistrationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\EventRegistrationResponseDto.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\DTO\u0027s\\EventRegistrationResponseDto.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\EventRegistrationResponseDto.cs",
+              "RelativeToolTip": "DLEventSphere\\DTO\u0027s\\EventRegistrationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:32:58.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventSphere\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventSphere\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:26:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EventSphere\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EventSphere\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAxwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:27:08.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\EventResponseDto.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\DTO\u0027s\\EventResponseDto.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\EventResponseDto.cs",
+              "RelativeToolTip": "DLEventSphere\\DTO\u0027s\\EventResponseDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:10:50.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\CreateEventDto.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\DTO\u0027s\\CreateEventDto.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\CreateEventDto.cs",
+              "RelativeToolTip": "DLEventSphere\\DTO\u0027s\\CreateEventDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:33:02.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventSphere\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventSphere\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:28:51.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\BlEvent.cs",
+              "RelativeDocumentMoniker": "BLEventSphere\\BlEvent.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\BlEvent.cs",
+              "RelativeToolTip": "BLEventSphere\\BlEvent.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:12:01.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EventSphere\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EventSphere\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:29:43.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Repository\\EventRepo.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Repository\\EventRepo.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Repository\\EventRepo.cs",
+              "RelativeToolTip": "DLEventSphere\\Repository\\EventRepo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:19:34.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventOrganizerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Repository\\EventOrganizerRepo.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Repository\\EventOrganizerRepo.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Repository\\EventOrganizerRepo.cs",
+              "RelativeToolTip": "DLEventSphere\\Repository\\EventOrganizerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:20:11.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Program.cs",
+              "RelativeDocumentMoniker": "EventSphere\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\EventSphere\\Program.cs",
+              "RelativeToolTip": "EventSphere\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:06:57.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlEventOrganizer.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\BlEventOrganizer.cs",
+              "RelativeDocumentMoniker": "BLEventSphere\\BlEventOrganizer.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\BlEventOrganizer.cs",
+              "RelativeToolTip": "BLEventSphere\\BlEventOrganizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:16:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\EventRegistration.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Model\\EventRegistration.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\EventRegistration.cs",
+              "RelativeToolTip": "DLEventSphere\\Model\\EventRegistration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:10:50.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FeedBack.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\FeedBack.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Model\\FeedBack.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\FeedBack.cs",
+              "RelativeToolTip": "DLEventSphere\\Model\\FeedBack.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:10:48.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\User.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\User.cs",
+              "RelativeToolTip": "DLEventSphere\\Model\\User.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:09:59.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Repository\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Repository\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "DLEventSphere\\Repository\\CategoryRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:06:09.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BLEventSphere\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BLEventSphere\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:23:56.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\Event.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Model\\Event.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\Event.cs",
+              "RelativeToolTip": "DLEventSphere\\Model\\Event.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwC8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:33:17.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\Category.cs",
+              "RelativeToolTip": "DLEventSphere\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:34:00.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\JwtService.cs",
+              "RelativeDocumentMoniker": "BLEventSphere\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\JwtService.cs",
+              "RelativeToolTip": "BLEventSphere\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:10:38.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "BLEventSphere\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "BLEventSphere\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:39:11.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\EventContext.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Model\\EventContext.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Model\\EventContext.cs",
+              "RelativeToolTip": "DLEventSphere\\Model\\EventContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:05:47.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserCred.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\UserCred.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\DTO\u0027s\\UserCred.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\UserCred.cs",
+              "RelativeToolTip": "DLEventSphere\\DTO\u0027s\\UserCred.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:49:14.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\DTO\u0027s\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\CreateCategoryDto.cs",
+              "RelativeToolTip": "DLEventSphere\\DTO\u0027s\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:28:23.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\DTO\u0027s\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\DTO\u0027s\\UserResponseDto.cs",
+              "RelativeToolTip": "DLEventSphere\\DTO\u0027s\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:23:16.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEventOrganizerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Abstract\\IEventOrganizerRepo.cs",
+              "RelativeDocumentMoniker": "DLEventSphere\\Abstract\\IEventOrganizerRepo.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\DLEventSphere\\Abstract\\IEventOrganizerRepo.cs",
+              "RelativeToolTip": "DLEventSphere\\Abstract\\IEventOrganizerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:19:07.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BlUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\BlUser.cs",
+              "RelativeDocumentMoniker": "BLEventSphere\\BlUser.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\BlUser.cs",
+              "RelativeToolTip": "BLEventSphere\\BlUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:10:57.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BlCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\BlCategory.cs",
+              "RelativeDocumentMoniker": "BLEventSphere\\BlCategory.cs",
+              "ToolTip": "C:\\Users\\Mahesh M\\source\\repos\\EventSphere\\BLEventSphere\\BlCategory.cs",
+              "RelativeToolTip": "BLEventSphere\\BlCategory.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:11:01.477Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
