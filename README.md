@@ -106,7 +106,6 @@ npm start
 
 ## 🎯 Future Enhancements
 
-* Role-based access (Admin / Organizer / User)
 * Event reminders & notifications
 * Payment integration for paid events
 * Event analytics dashboard
