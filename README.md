@@ -129,5 +129,5 @@ This project is for learning and portfolio purposes.
 
 **Mahesh M**
 Backend / Full Stack Developer
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+GitHub: [https://github.com/your-username](https://github.com/maheshm1740)
+LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/mahesh1740)
